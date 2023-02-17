@@ -7,9 +7,6 @@
 import time
 
 
-# In[2]:
-
-
 itime = time.time()
 print(itime)
 
